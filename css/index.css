@@ -1,0 +1,12 @@
+/* CSS Document */
+.helloworld {
+	
+	text-align: center;
+	font-family: arial;
+	color: red;
+	
+}
+
+.navigation ul li {
+	display: inline-block;
+}
